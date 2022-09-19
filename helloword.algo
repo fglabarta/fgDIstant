@@ -2,12 +2,12 @@ Algo HelloWorld {
  fonction principale {
 // Création de la fenetre
  Créer une fenetre de titre HELLO_WORLD
-Mettre la dimension à 500, 800
+Mettre la dimension à 500, 800 labelFGUILLEMOT
 Configurer la fenetre sur ‘exitOnClose’
 Creer la couleur verte
 ajouter la couleur verte sur la fenêtre
 // Création du label de texte
-Créer un label avec du texte centré et contenant le texte HELLO_WORLD
+Créer un label avec du texte centré et contenant le texte HELLO_WORLD labelFGUILLEMOT2
 Modification de la couleur en cyan 
 Mettre la couleur cyan sur le label
 // Finalisation
