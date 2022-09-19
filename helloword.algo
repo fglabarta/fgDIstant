@@ -8,8 +8,8 @@ Creer la couleur verte
 ajouter la couleur verte sur la fenêtre
 // Création du label de texte
 Créer un label avec du texte centré et contenant le texte HELLO_WORLD
-Modification de la couleur en orange 
-Mettre la couleur orange sur le label
+Modification de la couleur en cyan 
+Mettre la couleur cyan sur le label
 // Finalisation
 Ajouter le lable sur la fenetre
 Afficher la fenêtre
